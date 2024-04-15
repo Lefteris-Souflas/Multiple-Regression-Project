@@ -1,4 +1,6 @@
-# Statistics for Business Analytics I
+# Multiple Regression Project
+
+Assignment 2 for the Statistics I Course of AUEB's MSc in Business Analytics
 
 ## Assignment 2
 
